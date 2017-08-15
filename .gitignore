@@ -1,2 +1,2 @@
-# ignore sfdx folder
-sfdx
+# ignore sfdx folder - ensuring the correct folder
+.sfdx
